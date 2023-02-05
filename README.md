@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
+  <h1>
+    Welcome to my github ! 
+    <img style=" transform: translateY(20px);" src="https://media3.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif?cid=ecf05e47qsqvhvk4k2addqry5rbrqsjtiuzj6213tf57qw9l&rid=giphy.gif" width="80px"/>
+  </h1>
+</div>
 
-<!--
-**thaichihien/thaichihien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Github status:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaichihien&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### Skils:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="80" height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="80" height="80"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" width="80" height="80"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80" height="80"/>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80" height="80"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="80" height="80"/>&nbsp;
+</div>
+
+## Some jokes:
+<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" />
