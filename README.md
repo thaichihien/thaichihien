@@ -24,7 +24,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80" height="80"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80" height="80"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="80" height="80"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="80" height="80"/>&nbsp;
 </div>
+
+
 
 ### Some jokes:
 <img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" />
