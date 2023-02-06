@@ -30,4 +30,7 @@
 
 
 ### Some jokes:
-<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" />
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" width="300" />
+ </div>
+
