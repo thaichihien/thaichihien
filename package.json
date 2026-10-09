@@ -1,0 +1,7 @@
+{
+  "name": "galaxy-profile",
+  "private": true,
+  "type": "module",
+  "scripts": { "generate": "node scripts/generate.ts" },
+  "engines": { "node": ">=22.18" }
+}
